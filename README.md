@@ -3,6 +3,8 @@
 
 <img src="https://github.com/soopertramp/Complete-Statistics-and-Probability-for-Data-Science/blob/main/Image/Stats.jpeg"  width="1000px"> 
 
-<h1>Contents</h1>
+<h1>Table of Content</h1>
 
-𝗗𝗮𝘆 𝟭 -  𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀 https://lnkd.in/gEj-pe2S
+𝗗𝗮𝘆 𝟭 -  𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀                            https://lnkd.in/gEj-pe2S
+
+𝗗𝗮𝘆 𝟮 - 𝗦𝘂𝗺𝗺𝗮𝗿𝗶𝘇𝗶𝗻𝗴 𝗮𝗻𝗱 𝗚𝗿𝗮𝗽𝗵𝗶𝗻𝗴 𝗗𝗮𝘁𝗮                      https://lnkd.in/gjtwvFMV
